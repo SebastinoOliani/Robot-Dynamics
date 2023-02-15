@@ -1,2 +1,2 @@
 # Robot-Dynamics
-Autumn Semester exercises for Robot Dynamics class at ETH Zürich
+Weekly MATLAB exercises during the Autumn Semester 2022 for "Robot Dynamics" class at ETH Zürich
